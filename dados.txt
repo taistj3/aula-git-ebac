@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Hellen
+-Profissão: Estudante de engenharia de qualidade de Software
+-Cidade: Campo Grande, MS
+-O que faz nas horas vagas: Assisto filmes e séries
+-Feedback sobre o curso Qualidade de Software: Tem excelentes atividades para exercitar o conhecimento
+-Feedback sobre a plataforma de estudo da EBAC: muito boa
 
 Obrigado!!!
 
